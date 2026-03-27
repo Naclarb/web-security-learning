@@ -13,10 +13,10 @@
 
 ## 测试过程
 
-1. 访问实验环境，点击商品图片，在 Burp Suite 中抓包获取图片加载请求： ![Burp 抓取图片请求](images\img.png)
+1. 访问实验环境，点击商品图片，在 Burp Suite 中抓包获取图片加载请求： ![Burp 抓取图片请求](images/img.png)
 2. 将该请求右键发送至 Burp Suite 的 Repeater 模块： ![发送请求到 Repeater](images/get.png)
-3. 修改 `filename` 参数为路径遍历 payload，构造恶意请求： ![修改 Payload](images\burp.png)
-4. 发送请求后成功读取 `/etc/passwd` 文件，实验显示 `Lab solved!`： ![实验通关](images\solved.png)
+3. 修改 `filename` 参数为路径遍历 payload，构造恶意请求： ![修改 Payload](images/burp.png)
+4. 发送请求后成功读取 `/etc/passwd` 文件，实验显示 `Lab solved!`： ![实验通关](images/solved.png)
 
 ## 利用 Payload
 
