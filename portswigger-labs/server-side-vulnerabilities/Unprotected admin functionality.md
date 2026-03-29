@@ -17,39 +17,39 @@ Lab 2:
 
 1. 访问实验环境，查看status code是200，右键发送至Repeater
 
-![get](images\lab2-get.png)
+![get](images/lab2-get.png)
 
 2. 在Request中修改为robots.txt, 查看内部内容, 找到admin panel路径
 
-![robots](images\lab2-robots.png)
+![robots](images/lab2-robots.png)
 
 3. 在Request中修改为admin-panel的路径， 找到carlos对应的前端代码
 
-![admin](images\lab2-admin.png)
+![admin](images/lab2-admin.png)
 
 4. 将carlos删除
 
-![delete](images\lab2-delete.png)
+![delete](images/lab2-delete.png)
 
 5. 成功删除，实验显示Lab solved!
 
-![solved](images\lab2-solved.png)
+![solved](images/lab2-solved.png)
 Lab3:
 1. 找到JS中对于Admin认证的相关部分(不过有意思的是我每一次刷新网站JS的setAttribute后面的内容有所改动，但是这个admin路径还是暴露了)
 
-![get](images\lab3-get.png)
+![get](images/lab3-get.png)
 
 2. 将admin路径部分复制到Request中，找到Carlos
 
-![admin](images\lab3-admin.png)
+![admin](images/lab3-admin.png)
 
 3. 删掉
 
-![delete Carlos](images\lab3-delete.png)
+![delete Carlos](images/lab3-delete.png)
 
 4. Lab solved！
 
-![Lab solved](images\lab3-solved.png)
+![Lab solved](images/lab3-solved.png)
 
 
 
