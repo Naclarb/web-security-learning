@@ -7,7 +7,8 @@ Web Security Academy Learning Paths
 ## Completed Labs
 ### Server-side vulnerabilities
 - [Completed] Path traversal (simple case) - apprentice
-- [Completing] Access control -apprentice
+- [Completed] Access control -apprentice
+- [Completing] Authentication -apprentice
 
 ## Tools
 - Burp Suite Community Edition  
