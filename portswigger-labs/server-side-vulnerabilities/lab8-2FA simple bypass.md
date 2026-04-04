@@ -12,7 +12,7 @@
 
 ## 测试过程
 
-Lab 7:
+Lab 8:
 初见：
 1. 第一次接触这个lab时，已经知道目标用户的账户名和密码，于是尝试login, 要求输入邮箱验证码，但是邮箱在没有登入wiener就已经绑定了wiener, 不过Inbox is empty
 ![](images/lab8-inbox.png)
