@@ -8,7 +8,8 @@ Web Security Academy Learning Paths
 ### Server-side vulnerabilities
 - [Completed] Path traversal (simple case) - apprentice
 - [Completed] Access control -apprentice
-- [Completing] Authentication -apprentice
+- [Completed] Authentication -apprentice
+- [Completing] SSRF -apprentice
 
 ## Tools
 - Burp Suite Community Edition  
