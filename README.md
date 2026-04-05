@@ -1,4 +1,4 @@
-# web-security-learning
+# Cyber-security-learning
 PortSwigger Labs and Burp Suite Practices  
 Web Security Academy Learning Paths  
 
@@ -9,7 +9,8 @@ Web Security Academy Learning Paths
 - [Completed] Path traversal (simple case) - apprentice
 - [Completed] Access control -apprentice
 - [Completed] Authentication -apprentice
-- [Completing] SSRF -apprentice
+- [Completed] SSRF -apprentice
+- [Completing] File upload vulnerabilities
 
 ## Tools
 - Burp Suite Community Edition  
