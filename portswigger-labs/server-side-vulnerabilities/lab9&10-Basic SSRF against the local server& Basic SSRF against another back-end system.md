@@ -28,7 +28,7 @@ Lab 9:
 
 Lab10 :
 
-1. 根据[lab7](lab7-Username enumeration via different responses.md)学习到的Brute-forcing, 可以直接将192.168.0.X最后的octet进行枚举，仅需要highlight最后一个octet 将1-255paste进payload(type simple list)
+1. 根据[lab7](portswigger-labs/server-side-vulnerabilities/lab7-Username enumeration via different responses.md)学习到的Brute-forcing, 可以直接将192.168.0.X最后的octet进行枚举，仅需要highlight最后一个octet 将1-255paste进payload(type simple list)
    不同于之前的用户名和密码，这需要自己从其他地方获得1-255列表， 手动是很慢的，可以使用编程写入文件的方式从txt复制，这里推荐linux 指令
 
 ```bash
