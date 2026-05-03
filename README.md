@@ -14,9 +14,9 @@ Web Security Academy Learning Paths
 - [Completed] OS command injection -apprentice
 - [Completed] SQL injection -apprentice
 
-### SQL injection(Completing) -practitioner -practioner labs:[11/13]
+### SQL injection(Completed) -practitioner labs:[11/13]
 
-### Path traversal -practioner labs:[5/5]
+### Path traversal(Completed) -practitioner labs:[5/5]
 
 ### Cross-site scripting
 
