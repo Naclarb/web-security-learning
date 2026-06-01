@@ -18,6 +18,7 @@ Web Security Academy Learning Paths
 
 ### Path traversal(Completed) -practitioner labs:[5/5]
 
+### Authentication(Completed) -practitioner labs:[10/10]
 ### Cross-site scripting
 
 ## Tools
